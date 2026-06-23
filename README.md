@@ -38,4 +38,8 @@ leetcode questions
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/ibrahimD49/learning-process/tree/master/0014-longest-common-prefix) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/ibrahimD49/learning-process/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
