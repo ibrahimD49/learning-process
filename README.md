@@ -9,6 +9,7 @@ leetcode questions
 | [0001-two-sum](https://github.com/ibrahimD49/learning-process/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/ibrahimD49/learning-process/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/ibrahimD49/learning-process/tree/master/0011-container-with-most-water) |
+| [0014-longest-common-prefix](https://github.com/ibrahimD49/learning-process/tree/master/0014-longest-common-prefix) |
 ## Hash Table
 |  |
 | ------- |
@@ -29,4 +30,12 @@ leetcode questions
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/ibrahimD49/learning-process/tree/master/0011-container-with-most-water) |
+## String
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/ibrahimD49/learning-process/tree/master/0014-longest-common-prefix) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/ibrahimD49/learning-process/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
