@@ -10,6 +10,7 @@ leetcode questions
 | [0004-median-of-two-sorted-arrays](https://github.com/ibrahimD49/learning-process/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/ibrahimD49/learning-process/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/ibrahimD49/learning-process/tree/master/0014-longest-common-prefix) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/ibrahimD49/learning-process/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Hash Table
 |  |
 | ------- |
@@ -43,4 +44,24 @@ leetcode questions
 | ------- |
 | [0175-combine-two-tables](https://github.com/ibrahimD49/learning-process/tree/master/0175-combine-two-tables) |
 | [0176-second-highest-salary](https://github.com/ibrahimD49/learning-process/tree/master/0176-second-highest-salary) |
+## Breadth-First Search
+|  |
+| ------- |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/ibrahimD49/learning-process/tree/master/3286-find-a-safe-walk-through-a-grid) |
+## Graph Theory
+|  |
+| ------- |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/ibrahimD49/learning-process/tree/master/3286-find-a-safe-walk-through-a-grid) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/ibrahimD49/learning-process/tree/master/3286-find-a-safe-walk-through-a-grid) |
+## Matrix
+|  |
+| ------- |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/ibrahimD49/learning-process/tree/master/3286-find-a-safe-walk-through-a-grid) |
+## Shortest Path
+|  |
+| ------- |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/ibrahimD49/learning-process/tree/master/3286-find-a-safe-walk-through-a-grid) |
 <!---LeetCode Topics End-->
