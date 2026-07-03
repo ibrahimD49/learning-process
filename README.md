@@ -11,6 +11,7 @@ leetcode questions
 | [0011-container-with-most-water](https://github.com/ibrahimD49/learning-process/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/ibrahimD49/learning-process/tree/master/0014-longest-common-prefix) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/ibrahimD49/learning-process/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3620-network-recovery-pathways](https://github.com/ibrahimD49/learning-process/tree/master/3620-network-recovery-pathways) |
 ## Hash Table
 |  |
 | ------- |
@@ -19,6 +20,7 @@ leetcode questions
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/ibrahimD49/learning-process/tree/master/0004-median-of-two-sorted-arrays) |
+| [3620-network-recovery-pathways](https://github.com/ibrahimD49/learning-process/tree/master/3620-network-recovery-pathways) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -52,10 +54,12 @@ leetcode questions
 |  |
 | ------- |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/ibrahimD49/learning-process/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3620-network-recovery-pathways](https://github.com/ibrahimD49/learning-process/tree/master/3620-network-recovery-pathways) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/ibrahimD49/learning-process/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3620-network-recovery-pathways](https://github.com/ibrahimD49/learning-process/tree/master/3620-network-recovery-pathways) |
 ## Matrix
 |  |
 | ------- |
@@ -64,4 +68,13 @@ leetcode questions
 |  |
 | ------- |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/ibrahimD49/learning-process/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3620-network-recovery-pathways](https://github.com/ibrahimD49/learning-process/tree/master/3620-network-recovery-pathways) |
+## Dynamic Programming
+|  |
+| ------- |
+| [3620-network-recovery-pathways](https://github.com/ibrahimD49/learning-process/tree/master/3620-network-recovery-pathways) |
+## Topological Sort
+|  |
+| ------- |
+| [3620-network-recovery-pathways](https://github.com/ibrahimD49/learning-process/tree/master/3620-network-recovery-pathways) |
 <!---LeetCode Topics End-->
