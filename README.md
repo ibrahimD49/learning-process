@@ -33,10 +33,12 @@ leetcode questions
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/ibrahimD49/learning-process/tree/master/0011-container-with-most-water) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/ibrahimD49/learning-process/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## String
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/ibrahimD49/learning-process/tree/master/0014-longest-common-prefix) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/ibrahimD49/learning-process/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Trie
 |  |
 | ------- |
@@ -77,4 +79,8 @@ leetcode questions
 |  |
 | ------- |
 | [3620-network-recovery-pathways](https://github.com/ibrahimD49/learning-process/tree/master/3620-network-recovery-pathways) |
+## Math
+|  |
+| ------- |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/ibrahimD49/learning-process/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 <!---LeetCode Topics End-->
