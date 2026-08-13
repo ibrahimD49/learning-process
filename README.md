@@ -48,6 +48,7 @@ leetcode questions
 | ------- |
 | [0175-combine-two-tables](https://github.com/ibrahimD49/learning-process/tree/master/0175-combine-two-tables) |
 | [0176-second-highest-salary](https://github.com/ibrahimD49/learning-process/tree/master/0176-second-highest-salary) |
+| [0178-rank-scores](https://github.com/ibrahimD49/learning-process/tree/master/0178-rank-scores) |
 ## Breadth-First Search
 |  |
 | ------- |
