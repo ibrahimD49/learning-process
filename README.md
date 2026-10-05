@@ -10,12 +10,14 @@ leetcode questions
 | [0004-median-of-two-sorted-arrays](https://github.com/ibrahimD49/learning-process/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/ibrahimD49/learning-process/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/ibrahimD49/learning-process/tree/master/0014-longest-common-prefix) |
+| [1512-number-of-good-pairs](https://github.com/ibrahimD49/learning-process/tree/master/1512-number-of-good-pairs) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/ibrahimD49/learning-process/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3620-network-recovery-pathways](https://github.com/ibrahimD49/learning-process/tree/master/3620-network-recovery-pathways) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/ibrahimD49/learning-process/tree/master/0001-two-sum) |
+| [1512-number-of-good-pairs](https://github.com/ibrahimD49/learning-process/tree/master/1512-number-of-good-pairs) |
 ## Binary Search
 |  |
 | ------- |
@@ -83,5 +85,10 @@ leetcode questions
 ## Math
 |  |
 | ------- |
+| [1512-number-of-good-pairs](https://github.com/ibrahimD49/learning-process/tree/master/1512-number-of-good-pairs) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/ibrahimD49/learning-process/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+## Counting
+|  |
+| ------- |
+| [1512-number-of-good-pairs](https://github.com/ibrahimD49/learning-process/tree/master/1512-number-of-good-pairs) |
 <!---LeetCode Topics End-->
