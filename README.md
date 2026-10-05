@@ -10,6 +10,7 @@ leetcode questions
 | [0004-median-of-two-sorted-arrays](https://github.com/ibrahimD49/learning-process/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/ibrahimD49/learning-process/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/ibrahimD49/learning-process/tree/master/0014-longest-common-prefix) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/ibrahimD49/learning-process/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/ibrahimD49/learning-process/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/ibrahimD49/learning-process/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1512-number-of-good-pairs](https://github.com/ibrahimD49/learning-process/tree/master/1512-number-of-good-pairs) |
@@ -83,6 +84,7 @@ leetcode questions
 ## Dynamic Programming
 |  |
 | ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/ibrahimD49/learning-process/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [3620-network-recovery-pathways](https://github.com/ibrahimD49/learning-process/tree/master/3620-network-recovery-pathways) |
 ## Topological Sort
 |  |
