@@ -10,6 +10,7 @@ leetcode questions
 | [0004-median-of-two-sorted-arrays](https://github.com/ibrahimD49/learning-process/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/ibrahimD49/learning-process/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/ibrahimD49/learning-process/tree/master/0014-longest-common-prefix) |
+| [1346-check-if-n-and-its-double-exist](https://github.com/ibrahimD49/learning-process/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1512-number-of-good-pairs](https://github.com/ibrahimD49/learning-process/tree/master/1512-number-of-good-pairs) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/ibrahimD49/learning-process/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3620-network-recovery-pathways](https://github.com/ibrahimD49/learning-process/tree/master/3620-network-recovery-pathways) |
@@ -17,11 +18,13 @@ leetcode questions
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/ibrahimD49/learning-process/tree/master/0001-two-sum) |
+| [1346-check-if-n-and-its-double-exist](https://github.com/ibrahimD49/learning-process/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1512-number-of-good-pairs](https://github.com/ibrahimD49/learning-process/tree/master/1512-number-of-good-pairs) |
 ## Binary Search
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/ibrahimD49/learning-process/tree/master/0004-median-of-two-sorted-arrays) |
+| [1346-check-if-n-and-its-double-exist](https://github.com/ibrahimD49/learning-process/tree/master/1346-check-if-n-and-its-double-exist) |
 | [3620-network-recovery-pathways](https://github.com/ibrahimD49/learning-process/tree/master/3620-network-recovery-pathways) |
 ## Divide and Conquer
 |  |
@@ -31,6 +34,7 @@ leetcode questions
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/ibrahimD49/learning-process/tree/master/0011-container-with-most-water) |
+| [1346-check-if-n-and-its-double-exist](https://github.com/ibrahimD49/learning-process/tree/master/1346-check-if-n-and-its-double-exist) |
 ## Greedy
 |  |
 | ------- |
@@ -91,4 +95,8 @@ leetcode questions
 |  |
 | ------- |
 | [1512-number-of-good-pairs](https://github.com/ibrahimD49/learning-process/tree/master/1512-number-of-good-pairs) |
+## Sorting
+|  |
+| ------- |
+| [1346-check-if-n-and-its-double-exist](https://github.com/ibrahimD49/learning-process/tree/master/1346-check-if-n-and-its-double-exist) |
 <!---LeetCode Topics End-->
