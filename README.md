@@ -11,6 +11,7 @@ leetcode questions
 | [0011-container-with-most-water](https://github.com/ibrahimD49/learning-process/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/ibrahimD49/learning-process/tree/master/0014-longest-common-prefix) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/ibrahimD49/learning-process/tree/master/1346-check-if-n-and-its-double-exist) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/ibrahimD49/learning-process/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1512-number-of-good-pairs](https://github.com/ibrahimD49/learning-process/tree/master/1512-number-of-good-pairs) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/ibrahimD49/learning-process/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3620-network-recovery-pathways](https://github.com/ibrahimD49/learning-process/tree/master/3620-network-recovery-pathways) |
@@ -19,6 +20,7 @@ leetcode questions
 | ------- |
 | [0001-two-sum](https://github.com/ibrahimD49/learning-process/tree/master/0001-two-sum) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/ibrahimD49/learning-process/tree/master/1346-check-if-n-and-its-double-exist) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/ibrahimD49/learning-process/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1512-number-of-good-pairs](https://github.com/ibrahimD49/learning-process/tree/master/1512-number-of-good-pairs) |
 ## Binary Search
 |  |
@@ -99,4 +101,9 @@ leetcode questions
 |  |
 | ------- |
 | [1346-check-if-n-and-its-double-exist](https://github.com/ibrahimD49/learning-process/tree/master/1346-check-if-n-and-its-double-exist) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/ibrahimD49/learning-process/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+## Counting Sort
+|  |
+| ------- |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/ibrahimD49/learning-process/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 <!---LeetCode Topics End-->
