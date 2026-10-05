@@ -12,6 +12,7 @@ leetcode questions
 | [0014-longest-common-prefix](https://github.com/ibrahimD49/learning-process/tree/master/0014-longest-common-prefix) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ibrahimD49/learning-process/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/ibrahimD49/learning-process/tree/master/0136-single-number) |
+| [0137-single-number-ii](https://github.com/ibrahimD49/learning-process/tree/master/0137-single-number-ii) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/ibrahimD49/learning-process/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/ibrahimD49/learning-process/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1512-number-of-good-pairs](https://github.com/ibrahimD49/learning-process/tree/master/1512-number-of-good-pairs) |
@@ -113,4 +114,5 @@ leetcode questions
 |  |
 | ------- |
 | [0136-single-number](https://github.com/ibrahimD49/learning-process/tree/master/0136-single-number) |
+| [0137-single-number-ii](https://github.com/ibrahimD49/learning-process/tree/master/0137-single-number-ii) |
 <!---LeetCode Topics End-->
